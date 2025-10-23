@@ -24,7 +24,7 @@
 
 8. Lalu setelah itu buat New file text untuk mengkonfigurasikan flowchart yang akan diubah menjadi syntax python
 
-![image alt](URL) foto flowchart minggu kemarin
+![image alt](https://github.com/scellaa/Pratikum3/blob/561e00eed0723324c7842afef844a61626ee7418/flowchart%20picture.jpg)
 
 9. Berikan judul pada file sesuai dengan konteks dan gunakan format .py untuk menandai bahwa ini adalah file python
 
